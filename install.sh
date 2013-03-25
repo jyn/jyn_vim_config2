@@ -12,6 +12,6 @@ git clone https://github.com/jyn/snipmate-snippets.git
 ln -s ~/.vimconfig/snipmate-snippets ~/.vim/snippets
 
 git clone https://github.com/jyn/vim-colorschemes.git
-ln -s ~/.vimconfig/vim-colorschemes ~/.vim/colors
+ln -s ~/.vimconfig/vim-colorschemes/colors ~/.vim/colors
 
 cd
