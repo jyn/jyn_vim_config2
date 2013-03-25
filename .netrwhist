@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/jasonn/.rvm/gems/ruby-1.9.3-p327@confui-app/gems/moped-1.3.2'
+let g:netrw_dirhist_2='/Users/jasonn/.rvm/gems/ruby-1.9.3-p327@confui-app/gems/mongoid-3.0.16'
+let g:netrw_dirhist_3='/Users/jasonn/.rvm/gems/ruby-1.9.3-p327@confui-app/gems/moped-1.3.2'
